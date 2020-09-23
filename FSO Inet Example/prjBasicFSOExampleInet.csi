@@ -1,0 +1,7 @@
+[History]
+B0=prjBasicFSOExampleInet/frmRegister/Inet1_StateChanged
+B1=prjBasicFSOExampleInet/frmRegister/cmdRegister_Click
+B2=prjBasicFSOExampleInet/frmRegister
+B3=prjBasicFSOExampleInet/frmRegister/cmdCancel_Click
+B4=prjBasicFSOExampleInet/frmMain/mnuRegister_Click
+B5=prjBasicFSOExampleInet/Form1/Form_Load
